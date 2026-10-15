@@ -1,10 +1,11 @@
 import {parseDate,type View} from './time'
+import {PRESET} from '../config'
 export type Settings={dob:string;life:number;view:View;goal:string;theme:'dark'|'light'|'system';heading:string}
 export type Entry={intention:string;note:string}
 export type Milestone={id:string;title:string;date:string;desc:string}
 export type Data={v:1;settings:Settings|null;entries:Record<string,Entry>;milestones:Milestone[]}
 export const KEY='memento-mori:v1'
-export const empty=():Data=>({v:1,settings:null,entries:{},milestones:[]})
+export const empty=():Data=>({v:1,settings:PRESET&&parseDate(PRESET.dob)?{...PRESET}:null,entries:{},milestones:[]})
 const str=(x:unknown,n:number)=>typeof x==='string'?x.slice(0,n):''
 export function validate(r:unknown):Data|null{
  if(!r||typeof r!=='object')return null

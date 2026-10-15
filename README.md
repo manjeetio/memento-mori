@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Memento Mori
 
 A calm, local-first view of your life in weeks, months or years, with a Stats tab. No backend, no API keys, no tracking: everything lives in your browser's localStorage.
@@ -28,3 +29,6 @@ npm run preview    # preview the production build
 - The end date is a hypothetical point from your chosen lifespan, not a prediction.
 - Weeks left in the year count from today to Jan 1 (whole weeks, plus leftover days); weeks left in life = total weeks minus completed weeks, so the current week counts as left. The app re-reads the date every 30 s and on tab focus.
 - Styling is plain CSS with variables and system font fallbacks (no remote fonts); date maths is in `src/lib/time.ts`, persistence in `src/lib/store.ts`.
+=======
+# memento-mori
+>>>>>>> 6e1cbc40bfa23610aa67d57b35426c23830d9d9d

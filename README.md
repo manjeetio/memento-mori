@@ -4,7 +4,7 @@
 
 **Remember that you must die. Remember, so you can truly live.**
 
-Memento Mori is a minimalist web application built around a simple but powerful idea: **your time is finite, and every day matters.**
+Memento Mori is a minimalist web application built around a simple but powerful idea: **your time is finite, and every day matters.** and it also works on Mobile, Tab Etc.
 
 Visualize the passage of your life, confront the reality of limited time, and become more intentional about how you spend it. Rather than treating time as an endless resource, Memento Mori turns it into something tangible — a quiet reminder to focus on what truly matters.
 

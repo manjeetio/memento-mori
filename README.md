@@ -33,15 +33,6 @@ This isn't about fearing death. It's about remembering life.
 
 ## ✦ Preview
 
-_Add a screenshot or GIF of the application here._
-
-
-```![Preview ](preview1.png) ```
-
-## 🖼️ Preview
-
-## 🖼️ Preview
-
 ### Preview 1
 ![Memento Mori Preview 1](preview1.png)
 

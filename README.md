@@ -95,16 +95,6 @@ This isn't about fearing death. It's about remembering life.
 - **Privacy-Conscious Experience** — Keep personal details under your control, depending on the application's storage implementation.
 
 
-## ✦ Preview
-
-_Add a screenshot or GIF of the application here._
-
-```markdown
-![Memento Mori Preview](./public/preview.png)
-```
-
-Replace the image path with the actual location of your screenshot.
-
 ## ✦ How to Use
 
 1. Open the application.

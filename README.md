@@ -40,15 +40,16 @@ _Add a screenshot or GIF of the application here._
 
 ## 🖼️ Preview
 
-<p align="center">
-  <img src=".preview1.png" width="32%" alt="Memento Mori — Preview 1" />
-  <img src=".review2.png" width="32%" alt="Memento Mori — Preview 2" />
-  <img src=".preview3.png" width="32%" alt="Memento Mori — Preview 3" />
-</p>
+## 🖼️ Preview
 
-*A visual reminder that time is finite. Make it count.*
+### Preview 1
+![Memento Mori Preview 1](preview1.png)
 
-Replace the image path with the actual location of your screenshot.
+### Preview 2
+![Memento Mori Preview 2](preview2.png)
+
+### Preview 3
+![Memento Mori Preview 3](preview3.png)
 
 ## ✦ How to Use
 

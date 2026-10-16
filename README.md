@@ -38,7 +38,15 @@ _Add a screenshot or GIF of the application here._
 
 ```![Preview ](preview1.png) ```
 
+## 🖼️ Preview
 
+<p align="center">
+  <img src=".preview1.png" width="32%" alt="Memento Mori — Preview 1" />
+  <img src=".review2.png" width="32%" alt="Memento Mori — Preview 2" />
+  <img src=".preview3.png" width="32%" alt="Memento Mori — Preview 3" />
+</p>
+
+*A visual reminder that time is finite. Make it count.*
 
 Replace the image path with the actual location of your screenshot.
 

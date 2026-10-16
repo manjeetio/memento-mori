@@ -35,9 +35,10 @@ This isn't about fearing death. It's about remembering life.
 
 _Add a screenshot or GIF of the application here._
 
-```markdown
-![Memento Mori Preview](preview1.png)
-```
+
+```![Preview ](preview1.png) ```
+
+
 
 Replace the image path with the actual location of your screenshot.
 

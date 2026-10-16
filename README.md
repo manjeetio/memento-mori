@@ -33,7 +33,7 @@ This isn't about fearing death. It's about remembering life.
 
 ## ✦ Preview
 
-####  live preview https://the-unlived.netlify.app/#today
+####  Live Preview https://the-unlived.netlify.app/
 
 ### Preview 1
 ![Memento Mori Preview 1](preview1.png)
